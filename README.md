@@ -19,6 +19,7 @@
 <h2>Blogs posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [VirtualBox – Install Ubuntu Linux on Windows 10](https://www.thevirajshelke.com/technology/how-to/install-ubuntu-linux-on-virtualbox-windows-10/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Languages and Tools:</h2>
